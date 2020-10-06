@@ -79,6 +79,5 @@ Contributions are what make the open source community such an amazing place to b
 [stars-url]: https://github.com/mmuhamadamirzaidi-work/landing-page/stargazers
 [issues-shield]: https://img.shields.io/github/issues/mmuhamadamirzaidi-work/repo.svg?style=flat-square
 [issues-url]: https://github.com/mmuhamadamirzaidi-work/landing-page/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [product-screenshot]: images/ss.png
 [product-screenshot-2]: images/ss-need-to-be.png
