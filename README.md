@@ -68,8 +68,6 @@ Contributions are what make the open source community such an amazing place to b
           >git push origin landing-page 
   
    7.  Open a Pull Request
-  
-   8.  Don't forget to give a **STAR** for this Project
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
